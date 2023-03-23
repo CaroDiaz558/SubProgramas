@@ -29,6 +29,7 @@ public class Ejercicio11 {
        
     
        nuevaFrase = cambiar(frases);
+        System.out.println(" ");
            
             
             //frase = frase.concat(nuevaLetra);
