@@ -28,4 +28,6 @@ public static void main(String[] args) {
             System.out.println("Los números ingresados son múltiplos");
         else
             System.out.println("Los números ingresados no son múltiplos");
+        
+        System.out.println(" ");
     }   }
